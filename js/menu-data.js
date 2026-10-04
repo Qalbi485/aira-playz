@@ -4,7 +4,7 @@ const RESTAURANT = {
   tagline: "Gaming Gear • Headsets • RGB Fans • Cables",
   address: "Main Boulevard, Lahore",
   mapUrl: "https://maps.google.com/?q=Lahore",
-  whatsapp: "923000000000",
+  whatsapp: "923150445168",
   logoImg: "AiraPlayz.png",
   nameFont: "Bebas Neue",
   poweredBy: "Qalbi Studio",
